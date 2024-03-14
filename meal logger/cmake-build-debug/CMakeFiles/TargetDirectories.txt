@@ -1,0 +1,3 @@
+/Users/carterdoncouse/Desktop/cs1410/modual 3/meal logger/cmake-build-debug/CMakeFiles/meal_logger.dir
+/Users/carterdoncouse/Desktop/cs1410/modual 3/meal logger/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/carterdoncouse/Desktop/cs1410/modual 3/meal logger/cmake-build-debug/CMakeFiles/rebuild_cache.dir
